@@ -1,0 +1,10 @@
+flower-shop/
+├── index.html        👉 Trang chủ
+├── cart.html         👉 Trang giỏ hàng
+├── css/
+│   └── styles.css    👉 Giao diện
+├── js/
+│   ├── main.js       👉 Logic thêm giỏ hàng
+│   └── cart.js       👉 Xử lý hiển thị giỏ hàng
+├── images/
+│   └── hoa-1.jpg     👉 Ảnh hoa
